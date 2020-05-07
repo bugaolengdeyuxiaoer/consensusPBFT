@@ -1,11 +1,11 @@
 package network
 
 import (
-	"github.com/bigpicturelabs/consensusPBFT/pbft/consensus"
 	"encoding/json"
-	"fmt"
-	"time"
 	"errors"
+	"fmt"
+	"github.com/bugaolengdeyuxiaoer/consensusPBFT/pbft/consensus"
+	"time"
 )
 
 type Node struct {
